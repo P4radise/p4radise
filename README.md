@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img width="24" height="24" src="https://github.com/user-attachments/assets/9338cd56-4757-4b25-914e-c223b0a9958f" /> [My LinkedIn profile](https://www.linkedin.com/in/ilya-emelyanov-259b15128/)
+
 
 <!--
 **P4radise/p4radise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
